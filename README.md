@@ -1,4 +1,4 @@
-# 💧 Groundwater Level Prediction using Deep Learning  
+# 💧 Groundwater Level Prediction using Machine Learning  
 <p align="right"><b>By Manideep Nvm</b></p>
 
 ---
